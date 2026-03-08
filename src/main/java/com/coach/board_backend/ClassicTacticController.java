@@ -3,7 +3,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 @RestController
 @RequestMapping("/api/classics")
-@CrossOrigin(origins={"http://localhost:5173","http://localhost:4173","https://funny-ganache-509392.netlify.app"})
+@CrossOrigin(origins={"http://localhost:5173","http://localhost:4173","https://board-frontend-henna.vercel.app"})
 public class ClassicTacticController {
     private final ClassicTacticRepository repo;
     public ClassicTacticController(ClassicTacticRepository repo) {
