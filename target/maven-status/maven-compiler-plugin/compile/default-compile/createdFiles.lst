@@ -1,0 +1,9 @@
+com\coach\board_backend\ClassicTacticController.class
+com\coach\board_backend\ClassicTacticRepository.class
+com\coach\board_backend\Tactic.class
+com\coach\board_backend\TacticRepository.class
+com\coach\board_backend\BoardBackendApplication.class
+com\coach\board_backend\TacticController.class
+com\coach\board_backend\ClassicTactic.class
+com\coach\board_backend\HelloController.class
+com\coach\board_backend\TacticDto.class
